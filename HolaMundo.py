@@ -1,2 +1,1 @@
-for i in "holaatodos":
-    print("holaMundo")
+print("holaMundo")
